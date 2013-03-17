@@ -86,4 +86,72 @@ public class ArrayQuestions extends framework.Quiz {
         //TODO delete the line below and write your solution.
         throw new UnsupportedOperationException();
     }
+    
+    /**
+     * Question #B.3)
+     * The method return a new array from the combination of other two arrays.
+     *  For example, if the first array is { 5, 15, 9 } and the second array is
+     *  { 7, 9, 11 }, then the result will be { 5, 15, 9, 7, 9, 11 }. 
+     * 
+     * @param array is the array to look through.
+     * 
+     * @return the new array with the odd elements.
+     */
+    public static int[] changeArray103( int[] array1, int[] array2 ) {
+        //TODO delete the line below and write your solution.
+        throw new UnsupportedOperationException();
+    }
+    
+    /**
+     * Question #B.4)
+     * The method modifies array by adding a number n to each element in the 
+     *  array.
+     * 
+     * @param array is the array to look through.
+     * 
+     * @return the new array with the odd elements.
+     */
+    public static int[] changeArray104( int[] array1, int[] array2 ) {
+        //TODO delete the line below and write your solution.
+        throw new UnsupportedOperationException();
+    }
+    
+    /**
+     * Question #B.5)
+     * The method return the total of an array.
+     * 
+     * @param array is the array to look through.
+     * 
+     * @return the new array with the odd elements.
+     */
+    public static int[] changeArray105( int[] array1 ) {
+        //TODO delete the line below and write your solution.
+        throw new UnsupportedOperationException();
+    }
+    
+    /**
+     * Question #B.6)
+     * The method return the maximum value of an array.
+     * 
+     * @param array is the array to look through.
+     * 
+     * @return the new array with the odd elements.
+     */
+    public static int[] changeArray106( int[] array1 ) {
+        //TODO delete the line below and write your solution.
+        throw new UnsupportedOperationException();
+    }
+    
+    /**
+     * Question #B.7)
+     * The method returns the minimum value of an array.
+     * 
+     * @param array is the array to look through.
+     * 
+     * @return the new array with the odd elements.
+     */
+    public static int[] changeArray107( int[] array1 ) {
+        //TODO delete the line below and write your solution.
+        throw new UnsupportedOperationException();
+    }
 }
